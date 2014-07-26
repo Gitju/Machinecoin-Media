@@ -1,0 +1,9 @@
+clear all; close all;
+t = 0:pi/10:2*pi;
+[X,Y,Z] = cylinder(2+(t));
+surf(X,Y,Z)
+axis square
+xlabel('x')
+ylabel('y')
+zlabel('z')
+title('Machinecoin Pipe')
