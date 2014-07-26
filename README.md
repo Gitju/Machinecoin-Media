@@ -1,4 +1,4 @@
-Machinecoin-Media
+Machinecoin Media
 ================================
 
 http://machinecoin.org
