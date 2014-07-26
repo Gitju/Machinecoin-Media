@@ -1,4 +1,12 @@
-machinecoingraphics
-===================
+Machinecoin-Media
+================================
 
-This is the Machinecoin Graphics repository. Here we collect all graphics that we have created 100% by ourself.
+http://machinecoin.org
+
+Copyright (c) 2014 Machinecoin Developers
+
+License
+-------
+
+Machinecoin is released under the terms of the MIT license. See `COPYING` for more
+information or see http://opensource.org/licenses/MIT.
