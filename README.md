@@ -1,7 +1,7 @@
 Machinecoin-Media
 ================================
 
-http://machinecoin.org
+http://gitju.github.io/Machinecoin.org
 
 Copyright (c) 2014 Machinecoin Developers
 
